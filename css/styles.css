@@ -127,7 +127,7 @@
     margin-top: 1%;
 }
 
-@media only screen and (max-width: 800px) {
+@media only screen and (max-width: 1200px) {
 
     .phone-image{
         width: 50%;
