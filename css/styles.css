@@ -59,13 +59,31 @@
     }
 }
 
+.download-icons{
+    height: 30px;
+    width: 30px;
+    color: #fff;
+    filter: invert(100%) sepia(100%) saturate(0%) hue-rotate(288deg) brightness(102%) contrast(102%);
+    padding-bottom: 3px;
+}
+
+/* .download-icons:hover{
+    color: #ff99a8;
+    filter: invert(88%) sepia(35%) saturate(4314%) hue-rotate(296deg) brightness(99%) contrast(105%);
+} */
+
+
 .ico-proper{
+    height: 60px;
+    width: 60px;
     color: #ff4c68;
+    filter: invert(53%) sepia(54%) saturate(5846%) hue-rotate(324deg) brightness(101%) contrast(102%);
     margin-bottom: 3%;
 }
 
 .ico-proper:hover{
     color: #ff99a8;
+    filter: invert(88%) sepia(35%) saturate(4314%) hue-rotate(296deg) brightness(99%) contrast(105%);
 }
 
 .p-padding{
